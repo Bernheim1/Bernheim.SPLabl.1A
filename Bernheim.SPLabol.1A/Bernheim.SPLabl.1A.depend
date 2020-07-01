@@ -1,0 +1,140 @@
+# depslib dependency file v1.0
+1591843639 source:c:\users\bernheim\desktop\bernheim.splabl.1a\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1589931250 c:\users\bernheim\desktop\bernheim.splabl.1a\validaciones.h
+
+1593606159 source:c:\users\bernheim\desktop\bernheim.splabl.1a\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593606169 c:\users\bernheim\desktop\bernheim.splabl.1a\linkedlist.h
+
+1593613604 source:c:\users\bernheim\desktop\bernheim.splabl.1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"validaciones.h"
+	"paises.h"
+	"parser.h"
+	"informes.h"
+
+1593610179 source:c:\users\bernheim\desktop\bernheim.splabl.1a\archivos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"validaciones.h"
+	"paises.h"
+	"archivos.h"
+
+1593613574 c:\users\bernheim\desktop\bernheim.splabl.1a\paises.h
+
+1593613321 c:\users\bernheim\desktop\bernheim.splabl.1a\archivos.h
+
+1593614323 source:c:\users\bernheim\desktop\bernheim.splabl.1a\paises.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"validaciones.h"
+	"paises.h"
+	"parser.h"
+	"informes.h"
+
+1593613321 source:c:\users\bernheim\desktop\bernheim.splabl.1a\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"validaciones.h"
+	"paises.h"
+	"parser.h"
+
+1593613322 c:\users\bernheim\desktop\bernheim.splabl.1a\parser.h
+
+1593613574 c:\users\bernheim\desktop\bernheim.splabl.1a\informes.h
+
+1593613623 source:c:\users\bernheim\desktop\bernheim.splabl.1a\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"validaciones.h"
+	"paises.h"
+	"parser.h"
+	"informes.h"
+
+1593606159 source:c:\users\bernheim\desktop\bernheim.splabl.1a - copia\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593606169 c:\users\bernheim\desktop\bernheim.splabl.1a - copia\linkedlist.h
+
+1593613604 source:c:\users\bernheim\desktop\bernheim.splabl.1a - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"validaciones.h"
+	"paises.h"
+	"parser.h"
+	"informes.h"
+
+1589931250 c:\users\bernheim\desktop\bernheim.splabl.1a - copia\validaciones.h
+
+1593613574 c:\users\bernheim\desktop\bernheim.splabl.1a - copia\paises.h
+
+1593613322 c:\users\bernheim\desktop\bernheim.splabl.1a - copia\parser.h
+
+1593613574 c:\users\bernheim\desktop\bernheim.splabl.1a - copia\informes.h
+
+1593614818 source:c:\users\bernheim\desktop\bernheim.splabl.1a - copia\paises.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"paises.h"
+	"parser.h"
+	"informes.h"
+
+1591843639 source:c:\users\bernheim\desktop\bernheim.splabl.1a - copia\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1593614818 source:c:\users\bernheim\desktop\bernheim.splabl.1a - copia\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"paises.h"
+	"parser.h"
+	"informes.h"
+
+1593614818 source:c:\users\bernheim\desktop\bernheim.splabl.1a - copia\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"paises.h"
+	"parser.h"
+
